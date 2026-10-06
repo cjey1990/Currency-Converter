@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/currency converter.vcxproj
+/currency converter.vcxproj.filters
